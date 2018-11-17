@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <PackageId>Logging.Exceptionless</PackageId>
+    <PackageVersion>1.0.0</PackageVersion>
+    <Authors>Lujun</Authors>
+    <PackageProjectUrl>https://github.com/l1044635791/Logging.Exceptionless</PackageProjectUrl>
+    <PackageTags>Logging Exceptionless</PackageTags>
+    <Title>Logging.Exceptionless</Title>
+    <Owners>Lujun</Owners>
+    <Description>Exceptionless logging for .net core</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <ReleaseVersion>1.0.0</ReleaseVersion>
+    <SynchReleaseVersion>false</SynchReleaseVersion>
+    <RootNamespace>Microsoft</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Exceptionless.AspNetCore" Version="4.3.2012"/>
+    <PackageReference Include="Microsoft.Extensions.Logging.Configuration" Version="2.1.1"/>
+  </ItemGroup>
+</Project>
