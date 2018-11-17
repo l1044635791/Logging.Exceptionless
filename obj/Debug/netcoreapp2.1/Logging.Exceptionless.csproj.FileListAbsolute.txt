@@ -1,9 +1,0 @@
-/Users/lujun/Projects/Logging.Exceptionless/bin/Debug/netcoreapp2.1/Logging.Exceptionless.deps.json
-/Users/lujun/Projects/Logging.Exceptionless/bin/Debug/netcoreapp2.1/Logging.Exceptionless.dll
-/Users/lujun/Projects/Logging.Exceptionless/bin/Debug/netcoreapp2.1/Logging.Exceptionless.pdb
-/Users/lujun/Projects/Logging.Exceptionless/obj/Debug/netcoreapp2.1/Logging.Exceptionless.csprojAssemblyReference.cache
-/Users/lujun/Projects/Logging.Exceptionless/obj/Debug/netcoreapp2.1/Logging.Exceptionless.csproj.CoreCompileInputs.cache
-/Users/lujun/Projects/Logging.Exceptionless/obj/Debug/netcoreapp2.1/Logging.Exceptionless.AssemblyInfoInputs.cache
-/Users/lujun/Projects/Logging.Exceptionless/obj/Debug/netcoreapp2.1/Logging.Exceptionless.AssemblyInfo.cs
-/Users/lujun/Projects/Logging.Exceptionless/obj/Debug/netcoreapp2.1/Logging.Exceptionless.dll
-/Users/lujun/Projects/Logging.Exceptionless/obj/Debug/netcoreapp2.1/Logging.Exceptionless.pdb
